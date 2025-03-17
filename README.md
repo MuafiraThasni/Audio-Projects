@@ -14,5 +14,5 @@ This repo contains the consolidated notebooks of Audio data related projects.
 - Speaker Recognition using Frequency-Domain Speech Features
 - Objective: developing a deep learning model for speaker classification using frequency-domain features extracted from speech samples
 - Approach: Used feature extraction techniques like MFCCs and embeddings with deep learning models.
-- Features: Implemented speaker embedding models (e.g., x-vectors, i-vectors) and clustering techniques for diarization.
-- Outcome: Successfully identified and separated different speakers, enhancing applications like multi-speaker transcription
+- Features: Implemented speaker embedding models (e.g., x-vectors, i-vectors) 
+- Outcome: Successfully identified and separated different speakers
